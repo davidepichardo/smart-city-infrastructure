@@ -1,0 +1,9 @@
+{
+	"name": "davidepichardo-df",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cc0b2e06-672d-4d49-883f-cbae78c0ca75",
+		"tenantId": "1aa04bf4-4415-4da7-baa2-a114a1297600"
+	}
+}
